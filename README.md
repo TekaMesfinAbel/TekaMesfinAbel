@@ -1,38 +1,42 @@
-<!-- I have a fullstop at the end for proper structure. -->
-# Hi, I’m Abel Mesfin Teka.
+<!-- All my linting error are line length error. I have long lines in my code to express myself well. -->
+ # Hi there! 👋 I’m **Abel Mesfin Teka**  
 
-<!-- I have long lines to express myself well. -->
-I am a passionate technologist, educator, and lifelong learner with a mission to create transformative solutions that bridge technology and education, particularly in underserved communities.
+🌟 **Aspiring Cognitive Scientist & Developer | Innovator in EdTech & Community Solutions | Educator | Founder**  
 
-## Education & Passion
+I’m passionate about building impactful solutions at the intersection of **cognitive science** and **computer science**. My mission is to leverage technology to improve education and empower communities, particularly in underserved areas.  
 
-<!-- I have long lines to express myself well. -->
-Driven by a fascination with human learning and problem-solving, I’m deeply interested in cognitive science and its intersection with computer science. My goal is to design innovative educational tools and systems that are grounded in an understanding of how people think, learn, and collaborate.
+## 🚀 **About Me**
 
-## Leadership & Impact
+- **Founder of Alita Programmers of Tigray:** During the Ethiopian Civil War, I built a local network and website to connect businesses and communities amidst an internet shutdown.  
+- **Co-founder of Aspirers of Wisdom:** Designed a collaborative learning program that engaged 180+ children, incorporating diverse teaching methods to suit different learning styles.  
+- **Kindness Local Charity:** Helped provide meals for 150 people daily and supported war-affected families through fundraising efforts.  
 
-<!-- I have long lines to express myself well. -->
-Founder & Developer of Alita Programmers of Tigray: Built a local network and website during the Ethiopian Civil War to connect businesses and communities during an internet shutdown.
-Co-founder of Aspirers of Wisdom: Engaged 180+ children in a collaborative learning system during the Tigray Civil War, tailoring teaching methods to diverse learning styles.
-Kindness Local Charity: Co-founded an initiative providing daily meals for 150 individuals and fundraising for families affected by the war.
+## 💻 **What I’m Working On**
 
-## Innovative Projects
+- **EdTech Systems:** Creating tools to improve exams and learning processes, making education more accessible and efficient.  
+- **Collaborative Learning Platforms:** Combining cognitive science and technology to develop inclusive educational systems.  
+- **Community Networks:** Building resilient tools to address local challenges in resource-limited settings.  
 
-<!-- I have long lines to express myself well. -->
-Created exam systems and school networks as President of the Kallamino Science and Technology Club, leading my team to win national science fairs.
-Developed a local information-sharing network during critical times, demonstrating resilience and resourcefulness.
+## 🏆 **Notable Achievements**  
 
-## Cultural Ambassador & Visionary
+- Led the **Kallamino Science and Technology Club** to win national science fairs, building innovative school networks and projects.  
+- Developed a learning space during the Tigray Civil War, mentoring and teaching children in a collaborative environment.  
 
-<!-- I have long lines to express myself well. -->
-Passionate about sharing Ethiopian culture and fostering global connections through education and technology.
-Dedicated to leveraging cognitive science and computer science to design impactful systems that make learning accessible and efficient.
+## 🎯 **Tech Stack & Skills**
 
-## Personal Interests
+- **Languages:** Python, Java, HTML/CSS  
+- **Interests:** EdTech, cognitive science, networking systems, human-centered design  
 
-<!-- I have long lines to express myself well. -->
-When not solving tech challenges or developing educational tools, you can find me playing chess, checkers, or soccer, where I enjoy strategizing and building team unity.
+## 🌍 **My Vision**
 
-📩 Let’s connect and collaborate on building solutions for a brighter future!
+I aim to use technology as a force for change, designing tools that empower individuals and strengthen communities.  
+
+📩 **Let’s Collaborate!**  
+Check out my repositories, and feel free to reach out if you’d like to work on impactful projects together.  
+
+<!-- I want to add a quote as emphasis not as heading. For joy!-->
+---  
+*“Technology is not just about solving problems—it’s about creating possibilities.”*
+
 [Email](tekaabel04@gmail.com)
 [Linkedin](https://www.linkedin.com/in/abel-mesfin-teka-98281027a/)
