@@ -4,7 +4,7 @@
 
 🌟 **Aspiring Cognitive Scientist & Developer | Innovator in EdTech & Community Solutions | Educator | Founder**  
 
-I’m passionate about building impactful solutions at the intersection of **cognitive science** and **computer science**. My mission is to leverage technology to improve education and empower communities, particularly in underserved areas.  
+I’m passionate about building impactful solutions at the intersection of **cognitive science** and **computer science**. My mission is to leverage technology to improve education and empower communities, particularly in under-served areas.
 
 ## 🚀 **About Me**
 
@@ -37,7 +37,7 @@ Check out my repositories, and feel free to reach out if you’d like to work on
 
 <!-- I want to add a quote as emphasis not as heading. For joy!-->
 ---  
-*“Technology is not just about solving problems—it’s about creating possibilities.”*
+>*“Technology is not just about solving problems—it’s about creating possibilities.”*
 
 [Email](tekaabel04@gmail.com)
 [Linkedin](https://www.linkedin.com/in/abel-mesfin-teka-98281027a/)
