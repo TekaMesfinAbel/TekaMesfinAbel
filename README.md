@@ -6,7 +6,7 @@ I’m passionate about building impactful solutions at the intersection of **cog
 
 ## 🚀 **About Me**
 
-- **Founder of Alita Programmers of Tigray:** During the Ethiopian Civil War, I built a local network and website to connect businesses and communities amidst an internet shutdown.  
+- **Member of Alita Programmers of Tigray:** During the Ethiopian Civil War, we built a local network and website to connect businesses and communities amidst an internet shutdown.  
 - **Co-founder of Aspirers of Wisdom:** Designed a collaborative learning program that engaged 180+ children, incorporating diverse teaching methods to suit different learning styles.  
 - **Kindness Local Charity:** Helped provide meals for 150 people daily and supported war-affected families through fundraising efforts.  
 
@@ -39,3 +39,4 @@ Check out my repositories, and feel free to reach out if you’d like to work on
 
 [Email](tekaabel04@gmail.com)
 [Linkedin](https://www.linkedin.com/in/abel-mesfin-teka-98281027a/)
+
